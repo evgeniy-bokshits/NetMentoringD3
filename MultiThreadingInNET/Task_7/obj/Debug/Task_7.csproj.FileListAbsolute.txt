@@ -1,0 +1,6 @@
+C:\Users\Yauheni_Bokshyts\Documents\.Net Mentoring D3 2017\MultiThreadingInNET\Task_7\bin\Debug\Task_7.exe.config
+C:\Users\Yauheni_Bokshyts\Documents\.Net Mentoring D3 2017\MultiThreadingInNET\Task_7\bin\Debug\Task_7.exe
+C:\Users\Yauheni_Bokshyts\Documents\.Net Mentoring D3 2017\MultiThreadingInNET\Task_7\bin\Debug\Task_7.pdb
+C:\Users\Yauheni_Bokshyts\Documents\.Net Mentoring D3 2017\MultiThreadingInNET\Task_7\obj\Debug\Task_7.csproj.CoreCompileInputs.cache
+C:\Users\Yauheni_Bokshyts\Documents\.Net Mentoring D3 2017\MultiThreadingInNET\Task_7\obj\Debug\Task_7.exe
+C:\Users\Yauheni_Bokshyts\Documents\.Net Mentoring D3 2017\MultiThreadingInNET\Task_7\obj\Debug\Task_7.pdb
